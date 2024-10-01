@@ -21,7 +21,7 @@ for i in a:
 url_grades = f'https://sh-open.ris61edu.ru/api/MarkService/GetSummaryMarks?date={DATE}'
 
 
-bot = telebot.TeleBot('6934522253:AAHQEyGcD8_ebYmIW-z-2J04D7zwkuVZ-jI')
+bot = telebot.TeleBot('TOKEN')
 
 
 
